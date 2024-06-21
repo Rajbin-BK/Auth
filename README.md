@@ -1,6 +1,9 @@
 # Auth
 
-PHP User Registration and Login System with Salted Password Hashing
+
+
+
+
 This project demonstrates a secure user registration and login system implemented in PHP. It uses salted password hashing to store passwords securely in a MySQL database and ensures protection against common security threats like SQL injection.
 
 Features
