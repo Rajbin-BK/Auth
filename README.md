@@ -1,5 +1,4 @@
-# Auth
-
+#  PHP User Registration and Login System with Salted Password Hashing
 
 
 
